@@ -30,7 +30,7 @@ class Hashing{
     {
         cout<<"Enter the key";
         cin>>key;
-        cout<<"Enter the key";
+        cout<<"Enter the name";
         cin>>name;
         int index=key%n;
         if(arr[index]!=-1)
